@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm Khushvind, a 3rd Year UG at IIT Delhi
+- Majoring in Mathematics And Computing
+  
 
 ![](https://raw.githubusercontent.com/khushvind/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/khushvind/github-stats/master/generated/overview.svg#gh-light-mode-only)
