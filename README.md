@@ -4,10 +4,6 @@
 - 👀 I’m interested in Machine Learning and AI
 - 📫 How to reach me: [khushvind.iitd@gmail.com]
 - 😄 Pronouns: He/Him
-
-  
-![](https://raw.githubusercontent.com/khushvind/Profile-Readme/master/generated/overview.svg#gh-dark-mode-only)
-
 <!--
 **khushvind/khushvind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
