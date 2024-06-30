@@ -1,6 +1,10 @@
-### Hi there 👋
-- I'm Khushvind, a 3rd Year UG at IIT Delhi
-- Majoring in Mathematics And Computing
+### Hi there :slightly_smiling_face:,
+- 👋 I'm Khushvind, a 4rd Year UG at IIT Delhi
+- 🌱 Pursuing Bachelor in Mathematics And Computing
+- 👀 I’m interested in Machine Learning and AI
+- 📫 How to reach me: [khushvind.iitd@gmail.com]
+- 😄 Pronouns: He/Him
+
   
 ![](https://raw.githubusercontent.com/khushvind/Profile-Readme/master/generated/overview.svg#gh-dark-mode-only)
 
