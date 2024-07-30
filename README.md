@@ -1,6 +1,6 @@
 ### Hi there :slightly_smiling_face:,
 - 👋 I'm Khushvind, a 4rd Year UG at IIT Delhi
-- 🌱 Pursuing Bachelor in Mathematics And Computing
+- 🌱 Pursuing B.Tech in Mathematics And Computing
 - 👀 I’m interested in Machine Learning and AI
 - 📫 How to reach me: [khushvind.iitd@gmail.com]
 - 😄 Pronouns: He/Him
