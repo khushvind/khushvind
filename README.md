@@ -1,8 +1,8 @@
 ### Hi there :slightly_smiling_face:,
 - 👋 I'm Khushvind, a 4rd Year UG at IIT Delhi
-- 🌱 Pursuing B.Tech in Mathematics And Computing
+- 🌱 B.Tech in Mathematics And Computing
 - 👀 I’m interested in Machine Learning and AI
-- 📫 How to reach me: [khushvind.iitd@gmail.com]
+- 📫 How to reach me: [khushvind.pro@gmail.com]
 - 😄 Pronouns: He/Him
 <!--
 **khushvind/khushvind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
