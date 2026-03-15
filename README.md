@@ -1,9 +1,10 @@
 ### Hi there :slightly_smiling_face:,
-- 👋 I'm Khushvind, a 4rd Year UG at IIT Delhi
-- 🌱 B.Tech in Mathematics And Computing
+- 👋 I'm Khushvind, a SDE at Salesforce
+- 🌱 B.Tech in Mathematics And Computing from IIT Delhi (2025)
 - 👀 I’m interested in Machine Learning and AI
-- 📫 How to reach me: [khushvind.pro@gmail.com]
+- 📫 How to reach me: [khushvind.pro@gmail.com](mailto:khushvind.pro@gmail.com)
 - 😄 Pronouns: He/Him
+- 🌐 Portfolio: [khushvind.com](https://www.khushvind.com/)
 <!--
 **khushvind/khushvind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
